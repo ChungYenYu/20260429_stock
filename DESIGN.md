@@ -4,9 +4,9 @@ name: Apple Premium
 description: Cinematic minimalism, high contrast, and the signature Apple Blue.
 colors:
   primary: "#000000"
-  secondary: "#f5f5f7"
-  accent: "#0071e3"
-  text-primary: "#1d1d1f"
+  secondary: "#f5f5f7" # apple-gray
+  accent: "#0071e3" # apple-blue
+  text-primary: "#1d1d1f" # near-black
   text-secondary: "rgba(0, 0, 0, 0.8)"
   link: "#0066cc"
   link-dark: "#2997ff"
