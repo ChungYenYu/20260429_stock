@@ -1,0 +1,28 @@
+{
+  "name": "20260429_stock",
+  "version": "1.0.0",
+  "description": "一個採用 Apple Premium Minimalism 設計風格的台股投資觀測網站。本專案旨在提供乾淨、高效且美觀的介面，讓投資者能專注於核心數據（如 0056, 00919, 2330 等）的追蹤。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChungYenYu/20260429_stock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ChungYenYu/20260429_stock/issues"
+  },
+  "homepage": "https://github.com/ChungYenYu/20260429_stock#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "wait-on": "^9.0.5"
+  }
+}
