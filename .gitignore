@@ -1,0 +1,23 @@
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+backend/vendor/
+
+# Environment
+.env
+
+# Data
+data/
+
+# Tests
+test-results/
+playwright-report/
+blob-report/
+test-results/
+
+# Build
+dist/
+bin/

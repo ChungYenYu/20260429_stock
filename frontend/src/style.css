@@ -32,14 +32,9 @@
 }
 
 @layer components {
-  /* Purely visual glass effect as per Apple Spec */
-  .glass-effect {
-    @apply bg-black/80 backdrop-blur-[20px] backdrop-saturate-[180%];
-  }
-
   /* Specific nav container if needed, but keeping visual effect separate */
   .glass-nav {
-    @apply glass-effect h-[48px] sticky top-0 z-50 flex items-center px-4;
+    @apply bg-black/80 backdrop-blur-[20px] backdrop-saturate-[180%] h-[48px] sticky top-0 z-50 flex items-center px-4;
   }
 
   .apple-button-primary {

@@ -48,6 +48,10 @@ npm run test:unit
 ./scripts/test-and-deliver.sh
 ```
 
+## 🎨 系統預覽
+
+![System Screenshot](./assets/screenshot.png)
+
 ## 🎨 設計理念
 遵循 Apple 的「產品即主角」哲學：
 - **極簡主義**：除去不必要的裝飾，只保留核心數據。
